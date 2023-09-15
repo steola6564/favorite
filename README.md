@@ -1,2 +1,2 @@
-# Favorite_sites
+# Favorite_site
 I collected my favorite site.
